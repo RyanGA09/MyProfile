@@ -147,9 +147,13 @@
     <a href="https://www.threads.com/@ryan_g._a" target="_blank">
         <img src="https://img.shields.io/badge/Threads-Follow-black?logo=threads&style=for-the-badge" alt="Follow on Threads" />
     </a>
-    <!-- TikTok Badge -->
+    <!-- TikTok Badge - Ryan G. Abdullah (Non-Gaming) -->
     <a href="http://tiktok.com/@ryangabdullah" target="_blank">
-        <img src="https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok&style=for-the-badge" alt="Follow on TikTok" />
+        <img src="https://img.shields.io/badge/TikTok%20%7C%20Ryan%20G.%20Abdullah%20(Non--Gaming)-Follow-black?logo=tiktok&style=for-the-badge" alt="Follow on TikTok - Ryan G. Abdullah (Non-Gaming)" />
+    </a>
+    <!-- TikTok Badge - Lightning RGA (Gaming) -->
+    <a href="http://tiktok.com/@lightningrga" target="_blank">
+        <img src="https://img.shields.io/badge/TikTok%20%7C%20Lightning%20RGA%20(Gaming)-Follow-black?logo=tiktok&style=for-the-badge" alt="Follow on TikTok - Lightning RGA (Gaming)" />
     </a>
     <!-- Scratch Badge -->
     <a href="https://scratch.mit.edu/users/ryangaedu/" target="_blank">
@@ -222,14 +226,6 @@
     <!-- GitHub Sponsors Badge -->
 <!--         <a href="https://github.com/sponsors/yourusername" target="blank">
         <img src="https://img.shields.io/badge/GitHub_Sponsors-Support-yellow?logo=github&style=for-the-badge" alt="Support on GitHub Sponsors" />
-    </a> -->
-    <!-- Steam Badge -->
-    <!-- <a href="https://steamcommunity.com/id/Lightning19045/" target="blank">
-        <img src="https://img.shields.io/badge/Steam-Follow-blue?logo=steam&style=for-the-badge" alt="Follow on Steam" />
-    </a> -->
-    <!-- Epic Games Badge -->
-    <!-- <a href="https://store.epicgames.com/u/ab1322225f0042d7b5c62b67bce5046c" target="_blank" title="View on Epic Games">
-        <img src="https://img.shields.io/badge/Epic_Games-View_Profile-313131?logo=epicgames&style=for-the-badge" alt="View on Epic Games" />
     </a> -->
 </div>
 </br>
