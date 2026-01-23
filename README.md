@@ -147,14 +147,6 @@
     <a href="https://www.threads.com/@ryan_g._a" target="_blank">
         <img src="https://img.shields.io/badge/Threads-Follow-black?logo=threads&style=for-the-badge" alt="Follow on Threads" />
     </a>
-    <!-- TikTok Badge - Ryan G. Abdullah (Non-Gaming) -->
-    <a href="http://tiktok.com/@ryangabdullah" target="_blank">
-        <img src="https://img.shields.io/badge/TikTok%20%7C%20Ryan%20G.%20Abdullah%20(Non--Gaming)-Follow-black?logo=tiktok&style=for-the-badge" alt="Follow on TikTok - Ryan G. Abdullah (Non-Gaming)" />
-    </a>
-    <!-- TikTok Badge - Lightning RGA (Gaming) -->
-    <a href="http://tiktok.com/@lightningrga" target="_blank">
-        <img src="https://img.shields.io/badge/TikTok%20%7C%20Lightning%20RGA%20(Gaming)-Follow-black?logo=tiktok&style=for-the-badge" alt="Follow on TikTok - Lightning RGA (Gaming)" />
-    </a>
     <!-- Scratch Badge -->
     <a href="https://scratch.mit.edu/users/ryangaedu/" target="_blank">
         <img src="https://img.shields.io/badge/Scratch-Follow-orange?logo=scratch&style=for-the-badge" alt="Follow on Scratch" />
@@ -191,6 +183,10 @@
     <a href="https://public.tableau.com/app/profile/ryanga09/vizzes" target="_blank">
         <img src="https://img.shields.io/badge/Tableau-Follow-orange?logo=tableau&style=for-the-badge" alt="View on Tableau" />
     </a>
+    <!-- TikTok Badge - Ryan G. Abdullah (Non-Gaming) -->
+    <a href="http://tiktok.com/@ryangabdullah" target="_blank">
+        <img src="https://img.shields.io/badge/TikTok%20%7C%20Ryan%20G.%20Abdullah%20(Non--Gaming)-Follow-black?logo=tiktok&style=for-the-badge" alt="Follow on TikTok - Ryan G. Abdullah (Non-Gaming)" />
+    </a>
     <!-- YouTube Badge - Ryan G. Abdullah (Non-Gaming) -->
     <a href="https://www.youtube.com/@RyanGAbdullah" target="_blank">
         <img src="https://img.shields.io/badge/YouTube%20%7C%20Ryan%20G.%20Abdullah%20(Non--Gaming)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Ryan G. Abdullah (Non-Gaming)" />
@@ -198,6 +194,10 @@
     <!-- YouTube Badge - Lightning RGA (Gaming) -->
     <a href="https://www.youtube.com/@LightningRGA" target="_blank">
         <img src="https://img.shields.io/badge/YouTube%20%7C%20Lightning%20RGA%20(Gaming)-Subscribe-red?logo=youtube&style=for-the-badge" alt="Subscribe on YouTube - Lightning RGA (Gaming)" />
+    </a>
+    <!-- TikTok Badge - Lightning RGA (Gaming) -->
+    <a href="http://tiktok.com/@lightningrga" target="_blank">
+        <img src="https://img.shields.io/badge/TikTok%20%7C%20Lightning%20RGA%20(Gaming)-Follow-black?logo=tiktok&style=for-the-badge" alt="Follow on TikTok - Lightning RGA (Gaming)" />
     </a>
     <!-- Discord Badge -->
 <!--         <a href="https://discord.com/invite/yourserver" target="blank">
